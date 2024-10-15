@@ -15,22 +15,22 @@ Through extensive SQL querying and Power BI visualizations, this analysis aims t
 ### **Schema Structure**
 The payroll dataset contains the following fields:
 
--Fiscal Year
--Payroll Number
--Agency Name
--Employee First Name
--Agency Start Date
--Work Location Borough
--Title Description
--Leave Status as of July 31
--Base Salary
--Pay Basis
--Regular Hours
--Regular Gross Paid
--OT Hours
--Total OT Paid
--Total Other Pay
--Agency Payroll
+• Fiscal Year
+• Payroll Number
+• Agency Name
+• Employee First Name
+• Agency Start Date
+• Work Location Borough
+• Title Description
+• Leave Status as of July 31
+• Base Salary
+• Pay Basis
+• Regular Hours
+• Regular Gross Paid
+• OT Hours
+• Total OT Paid
+• Total Other Pay
+• Agency Payroll
 Proper indexing has been applied for optimizing query performance, especially on frequently queried columns like Agency Name, Work Location Borough, and Payroll Number.
 
 ---
