@@ -74,8 +74,12 @@ Leave Status Impact: Investigated how Leave Status affects salary distribution a
 Key dashboards and visualizations created in Power BI include:
 
 _Agency Payroll Distribution: A bar chart comparing total payroll expenses across different agencies.
+
 _Overtime Analysis: A pie chart showing the proportion of employees receiving overtime pay in relation to total payroll.
-_Salary vs. Job Title: A scatter plot visualizing the correlation between Base Salary and Job Titles, helping to highlight underpaid roles._-Borough-wise Payroll Analysis: A geographical map showing payroll distribution across different boroughs, highlighting regional pay discrepancies.
+
+_Salary vs. Job Title: A scatter plot visualizing the correlation between Base Salary and Job Titles, helping to highlight underpaid roles.
+
+_Borough-wise Payroll Analysis: A geographical map showing payroll distribution across different boroughs, highlighting regional pay discrepancies.
 
 ---
 
