@@ -73,10 +73,9 @@ Leave Status Impact: Investigated how Leave Status affects salary distribution a
 
 Key dashboards and visualizations created in Power BI include:
 
--Agency Payroll Distribution: A bar chart comparing total payroll expenses across different agencies.
--Overtime Analysis: A pie chart showing the proportion of employees receiving overtime pay in relation to total payroll.
--Salary vs. Job Title: A scatter plot visualizing the correlation between Base Salary and Job Titles, helping to highlight underpaid roles.
--Borough-wise Payroll Analysis: A geographical map showing payroll distribution across different boroughs, highlighting regional pay discrepancies.
+_Agency Payroll Distribution: A bar chart comparing total payroll expenses across different agencies.
+_Overtime Analysis: A pie chart showing the proportion of employees receiving overtime pay in relation to total payroll.
+_Salary vs. Job Title: A scatter plot visualizing the correlation between Base Salary and Job Titles, helping to highlight underpaid roles._-Borough-wise Payroll Analysis: A geographical map showing payroll distribution across different boroughs, highlighting regional pay discrepancies.
 
 ---
 
@@ -95,9 +94,13 @@ Offer recommendations for optimizing payroll expenses and improving compensation
 This project allowed me to:
 
 Design a structured payroll database schema and ensure optimal query performance using indexes and constraints.
+
 Clean and preprocess a real-world payroll dataset for analysis.
+
 Use advanced SQL techniques such as aggregation, joins, and subqueries to perform detailed payroll analysis.
+
 Leverage Power BI for creating insightful visualizations that can help drive business decisions related to payroll and compensation management.
+
 Identify actionable insights that can help organizations optimize payroll expenses and ensure equitable compensation.
 
 ---
