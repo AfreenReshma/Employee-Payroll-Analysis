@@ -56,7 +56,9 @@ Proper indexing has been applied for optimizing query performance, especially on
 Referential integrity and consistency are maintained as follows:
 
 Primary Keys: Each record is uniquely identified by the combination of Payroll Number and Fiscal Year.
+
 Data Integrity: Fields like Base Salary and OT Hours are constrained to ensure only positive numeric values, preventing negative salaries or work hours.
+
 Default Values: Columns such as Total OT Paid and Total Other Pay have default values of 0 to handle cases where no overtime or other payments are applicable.
 
 ---
@@ -104,7 +106,9 @@ _Borough-wise Payroll Analysis: A geographical map showing payroll distribution 
 The main objectives of this project were to:
 
 Perform a detailed payroll analysis to identify inefficiencies in employee compensation.
+
 Provide data-driven insights into salary distribution, overtime usage, and regional discrepancies.
+
 Offer recommendations for optimizing payroll expenses and improving compensation management.
 
 ---
