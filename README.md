@@ -99,6 +99,12 @@ _Salary vs. Job Title: A scatter plot visualizing the correlation between Base S
 
 _Borough-wise Payroll Analysis: A geographical map showing payroll distribution across different boroughs, highlighting regional pay discrepancies.
 
+Here is the visual Representation of my project:
+
+![Screenshot 2024-10-15 123649](https://github.com/user-attachments/assets/a755bd4a-7501-4e94-9e5f-8766c1f59dc1)
+
+![Screenshot 2024-10-15 123707](https://github.com/user-attachments/assets/10daeea5-6736-4319-b3f5-f7bee94da0ce)
+
 ---
 
 ## ***Objectives***
